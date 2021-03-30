@@ -11,8 +11,8 @@ entries:
     url: fsklab_index.html
   - name: fsklab_HowTo_sidebar
   items:
-	- title: How to  create plots in R
-	url: fsklab_Rplots.html
+	- title: How to install the required software
+	url: fsklab_installation_index.html
     
 - name: pmmlab_sidebar
   items:
